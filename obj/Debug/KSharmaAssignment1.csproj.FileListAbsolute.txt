@@ -1,0 +1,10 @@
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment1\bin\Debug\KSharmaAssignment1.exe.config
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment1\bin\Debug\KSharmaAssignment1.exe
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment1\bin\Debug\KSharmaAssignment1.pdb
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment1\obj\Debug\KSharmaAssignment1.csprojAssemblyReference.cache
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment1\obj\Debug\KSharmaAssignment1.Form1.resources
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment1\obj\Debug\KSharmaAssignment1.Properties.Resources.resources
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment1\obj\Debug\KSharmaAssignment1.csproj.GenerateResource.cache
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment1\obj\Debug\KSharmaAssignment1.csproj.CoreCompileInputs.cache
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment1\obj\Debug\KSharmaAssignment1.exe
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment1\obj\Debug\KSharmaAssignment1.pdb
